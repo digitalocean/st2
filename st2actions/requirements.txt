@@ -24,4 +24,4 @@ pyyaml==6.0.2
 requests==2.32.4
 setuptools<78
 six==1.17.0
-urllib3==2.2.3
+urllib3==2.6.0
