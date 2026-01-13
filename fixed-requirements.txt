@@ -71,7 +71,7 @@ tooz==6.3.0
 # Note: virtualenv embeds wheels for pip, wheel, and setuptools. So pinning virtualenv pins those as well.
 # virtualenv==20.30.0 (<21) has pip==25.0.1 wheel==0.45.1 setuptools==75.3.2
 # lockfiles/st2.lock has pip==25.0.1 wheel==0.45.1 setuptools==75.3.2
-virtualenv==20.34.0
+virtualenv==20.36.1
 # This setuptools version number is in the Makefile, but CircleCI builds are pulling a version
 # that is incompatible with our logshipper fork.
 setuptools<78
